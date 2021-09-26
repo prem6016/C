@@ -1,1 +1,1 @@
-## C hotel bill program
+## hotel bill program using C
